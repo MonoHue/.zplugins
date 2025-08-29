@@ -195,3 +195,7 @@ if [[ -f "$PLUGIN_DIR/zsh-autosuggestions/zsh-autosuggestions.zsh" ]]; then
     # ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#666666"
     ZSH_AUTOSUGGEST_STRATEGY=(history completion)
 fi
+
+# -----------------------------------------------------------------------------
+# Machine-Specific Configurations
+# -----------------------------------------------------------------------------
